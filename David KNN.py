@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  3 14:33:25 2018
 
-@author: david.shaer
+@author: david.shaer xxxxxxxxxxx
 """
 'david is here'
 import numpy as np
