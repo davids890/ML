@@ -4,12 +4,12 @@ Created on Mon Dec  3 14:33:25 2018
 
 @author: david.shaer
 """
-
+'david is here'
 import numpy as np
 import pandas as pnd
 from sklearn import datasets
 from scipy import stats
-
+'harry is also here'
 #1. Handle the data: write a function that will open the dataset and split it to training
 #and testing. You can either:
 #A. use the function sklearn.datasets.import_iris() which provides an object where
